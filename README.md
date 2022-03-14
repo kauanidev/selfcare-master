@@ -19,6 +19,11 @@
 
 &nbsp;
 
+## 💜 Layout usado nesse projeto
+* [Layout Figma](https://www.figma.com/file/d3XuxUt94vr0o4kBSo7IHC/Dev-Challenge?node-id=0%3A1)
+
+&nbsp;
+
 ### 💜 Link para o projeto online
 * [Self Care](https://kauanidev.github.io/selfcare-master/)
 
